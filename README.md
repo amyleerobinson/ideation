@@ -5,7 +5,7 @@ OCR evolution of ideas
 
 commencing OCR of one notebook, titled "Life is far too important to be taken seriously." 
 
-Images (35, 2 pages each) available on Google Drive here 
+Images (35, 2 pages each) available on Google Drive here: https://drive.google.com/folderview?id=0B3kV2fQEMUoKeHFIbFB1bTQ2NVE&usp=sharing 
 
 
 phase 1: generate txt 
